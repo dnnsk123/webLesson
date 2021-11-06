@@ -5,7 +5,7 @@ ths is ul:
 * item 1 
 * item 2
 * item 3
-**im devoloper pro 228
+**im devoloper pro 228**
 ```javascript
 let str = 'this is coddededededededededededededededed'
 
